@@ -6,6 +6,8 @@
 
 This project is a *Simple*, *high quality*, *ChatGPT-esque*, *extensible RAG application*, that makes use of AI models and indices to query documents and retrieve better-informed responses from the models. It allows you to upload your documents that can be used to answer any corresponding queries. It automatically stores your chats for future usage.
 
+A sample online implementation of this project is available [here](https://github.com/gurveervirk/BlenderHelperBot-with-TiDB).
+
 ## Prerequisites
 
 This app has a single dependency that needs to be installed separately:
@@ -57,6 +59,8 @@ This is how it should look like:
 5) **RAG Chatbot Application**:
   - The main user interface where users interact with the chatbot.
   - Orchestrates the flow of data between different components.
+
+Frontend has been built using **React** and **Bootstrap 5**.
 
 ### Data Flow:
 
