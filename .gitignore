@@ -1,0 +1,7 @@
+tichat/dist
+tichat/cert
+tichat/web/build
+tichat/main.spec
+tichat/TiChatInstaller.exe
+tichat/settings.json
+tichat/installer_script.iss
